@@ -21,7 +21,7 @@ Sebuah dashboard interaktif untuk menganalisis dan memprediksi risiko attrition 
 
 ## 🚀 Demo
 
-Aplikasi ini telah di-deploy dan dapat diakses melalui: [Dashboard Attrition Karyawan](https://example-streamlit-app.streamlit.app/)
+Aplikasi ini telah di-deploy dan dapat diakses melalui: [Dashboard Attrition Karyawan]([https://example-streamlit-app.streamlit.app/](https://dicodingpds1-gwxt6gjambnfvahxuxmxmw.streamlit.app))
 
 ## 📊 Screenshot
 
