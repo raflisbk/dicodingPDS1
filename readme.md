@@ -21,15 +21,8 @@ Sebuah dashboard interaktif untuk menganalisis dan memprediksi risiko attrition 
 
 ## 🚀 Demo
 
-Aplikasi ini telah di-deploy dan dapat diakses melalui: [Dashboard Attrition Karyawan]((https://dicodingpds1-gwxt6gjambnfvahxuxmxmw.streamlit.app))
+Aplikasi ini telah di-deploy dan dapat diakses melalui: [Dashboard Attrition Karyawan](https://dicodingpds1-gwxt6gjambnfvahxuxmxmw.streamlit.app)
 
-## 📊 Screenshot
-
-<div align="center">
-  <img src="https://i.ibb.co/placeholder/dashboard-overview.png" alt="Dashboard Overview" width="90%"/>
-  <br/><br/>
-  <img src="https://i.ibb.co/placeholder/prediction-demo.png" alt="Prediction Feature" width="90%"/>
-</div>
 ## 🛠️ Teknologi yang Digunakan
 
 * **Streamlit** - Framework untuk membangun aplikasi data interaktif
@@ -49,8 +42,7 @@ Aplikasi ini telah di-deploy dan dapat diakses melalui: [Dashboard Attrition Kar
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/username/dashboard-attrition-karyawan.git
-   cd dashboard-attrition-karyawan
+   git clone https://github.com/raflisbk/dicodingPDS1/tree/main
    ```
 2. Buat virtual environment (opsional tapi direkomendasikan):
    ```bash
@@ -167,4 +159,4 @@ Pengembang: [Mohamad Rafli Agung Subekti](https://github.com/raflisbk) - raflisb
 
 ---
 
-<p align="center">Dibuat dengan ❤️ untuk membantu HR professionals mengambil keputusan data-driven</p>
+<p align="center">Mohamad Rafli Agung Subekti</p>
