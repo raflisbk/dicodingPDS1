@@ -350,7 +350,7 @@ def main():
     # Footer section
     st.markdown("""
     <div class="footer">
-        <p>© 2025 Dashboard Attrition Karyawan • Dibuat dengan ❤️ menggunakan Streamlit</p>
+        <p>© 2025 Dashboard Attrition Karyawan • Mohamad Rafli Agung Subekti</p>
         <p style="font-size: 0.8rem; margin-top: 5px;">Versi 1.0.0</p>
     </div>
     """, unsafe_allow_html=True)
