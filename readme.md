@@ -97,10 +97,10 @@ Dataset berisi informasi karyawan termasuk demografi, riwayat pekerjaan, kepuasa
 
 Model prediksi menggunakan algoritma Random Forest yang dilatih pada data historis attrition karyawan dengan metrik performa:
 
-* **Akurasi** : 85%
-* **Presisi** : 83%
-* **Recall** : 81%
-* **F1-Score** : 82%
+* **Akurasi** : 98%
+* **Presisi** : 99%
+* **Recall** : 98%
+* **F1-Score** : 98%
 
 ## 🔍 Fitur Utama
 
